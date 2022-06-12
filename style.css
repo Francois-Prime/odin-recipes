@@ -1,0 +1,60 @@
+/* Universal */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(128, 128, 128);
+}
+
+.description { 
+    text-align: center;
+    font-size: large;
+    color: #a52a2a;
+}
+
+.head {
+    font-size: larger;
+    text-align: center;
+}
+
+.ul,
+.ol {
+    text-align: left;
+    position: relative;
+    width: 40%;
+    left: 35%;
+    list-style: inside;
+    font-size: large;
+}
+
+
+
+
+/* Index */
+#recipes {
+    font-size: large;
+    text-align: center;
+}
+
+
+.button {
+    background-color: rgb(228, 13, 228);
+    color: rgb(8, 82, 8);
+    height: auto;
+    width: 300px;
+    font-size: xx-large;
+
+}
+
+
+/* Recipe pages*/
+.papaya {  
+    color: orange;
+}
+
+.jaja {
+
+}
+
+.beef {
+
+
+}
